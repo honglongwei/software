@@ -1,0 +1,26 @@
+local_root=/home/ftp/ceshi
+#目录
+
+write_enable=YES
+#用户上传数据
+
+#use_localtime=YES
+
+anon_world_readable_only=NO
+#仅允许匿名具有下载可读文档的权限
+
+anon_upload_enable=YES
+#是否让 匿名具有上传数据的功能
+
+anon_mkdir_write_enable=NO
+#匿名是否建立目录的权限
+
+anon_other_write_enable=NO
+#匿名是否有修改目录文件的权限
+
+local_umask=022
+#建立新目录 (755) 与档案 (644) 的权限
+
+download_enable=yes
+
+#目录
