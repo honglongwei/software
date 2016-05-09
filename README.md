@@ -5,3 +5,4 @@
   2. zabbix_proxy
   3. zabbix_agent_linux
   4. zabbix_agent_windows
+* rsync
